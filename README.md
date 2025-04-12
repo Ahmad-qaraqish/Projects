@@ -1,30 +1,16 @@
-# Ahmad Qaraqish – Project Portfolio
+# Ahmad Qaraqish – AI & Data Enthusiast
 
-Welcome to my GitHub repository! This space showcases a collection of my projects in AI, data analysis, computer vision, and more. Each project represents a unique challenge I've tackled during my academic journey and personal learning.
+Welcome to my GitHub repository.
 
-## 🔍 What's Inside
+I'm Ahmad Qaraqish, a final-year student specializing in Artificial Intelligence and Data Analysis. Throughout my academic journey, I've developed a strong foundation in machine learning, deep learning, natural language processing, computer vision, and data-driven problem solving. My passion lies in using technology to build meaningful solutions, especially in areas that combine innovation with social or creative impact.
 
-- **Symptom Recommendation Chatbot**  
-  A smart medical chatbot that interacts in Arabic, using NLP and fuzzy matching to assist users with symptoms.
+Beyond the world of code and algorithms, I'm also an artist at heart. I enjoy painting, writing poetry, and exploring the connection between creativity and technology. I believe that true innovation comes when logic meets imagination.
 
-- **Arabic Dialect Audio Recognition**  
-  A deep learning model for identifying regional dialects from Arabic speech recordings.
+This GitHub space is where I share my work, experiments, and growth as a developer, thinker, and problem-solver.
 
-- **Boycott Effect Analysis Model**  
-  An analytical project studying the impact of boycott movements using public data and predictive modeling.
+## Contact
 
-## 🛠️ Technologies Used
+If you'd like to connect, collaborate, or just have a chat, feel free to reach out:
 
-- Python, TensorFlow, PyTorch  
-- Scikit-learn, Pandas, NumPy  
-- Flask, Streamlit (for demos)  
-- Git, GitHub for version control
-
-## 📫 Contact Me
-
-Feel free to connect with me or explore more of my work:
-
-- [LinkedIn](linkedin.com/in/ahmad-qaraqish-11ba5327a)  
-- [Email](mailto:ahmad.qaraqish2002@gmail.com)
-
----
+- LinkedIn: [linkedin.com/in/ahmad-qaraqish-11ba5327a](https://www.linkedin.com/in/ahmad-qaraqish-11ba5327a)  
+- Email: ahmad.qaraqish2002@gmail.com
